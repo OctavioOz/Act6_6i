@@ -44,11 +44,11 @@ class _Widget008State extends State<Widget008> {
           ),
           AnimatedCrossFade(
             firstChild: Image.asset(
-              'https://raw.githubusercontent.com/OctavioOz/Act6_6i/refs/heads/master/azul.jpg',
+              'assets/azul.jpg',
               width: double.infinity,
             ),
             secondChild: Image.asset(
-              'https://raw.githubusercontent.com/OctavioOz/Act6_6i/refs/heads/master/mar.jpg',
+              'assets/mar.jpg',
               width: double.infinity,
             ),
             crossFadeState:
